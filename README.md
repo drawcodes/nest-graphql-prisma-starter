@@ -18,6 +18,22 @@
 $ npm install
 ```
 
+## Database Setup
+
+```
+- Create .env and copy contents from .env.example
+- Change DATABASE_URL in .env
+- Change provder in prisma/schema.prisma
+
+```
+
+## Prisma Scripts
+
+```bash
+# Generate Migration
+$ npm run prisma:generate
+```
+
 ## Running the app
 
 ```bash
