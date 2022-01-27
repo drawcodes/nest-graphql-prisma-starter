@@ -1,8 +1,7 @@
 ---
 name: "\U0001F680 New Feature"
-about: New Feature Pending In The Project 
-
+about: Request New Feature
 ---
 
 **Sub tasks.**
-Please describe the sub tasks below
+Request new features in template
