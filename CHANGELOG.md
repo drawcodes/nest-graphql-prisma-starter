@@ -1,3 +1,11 @@
+# [1.1.0](https://github.com/mohammedraoof/nest-graphql-prisma-starter/compare/1.0.0...1.1.0) (2022-01-29)
+
+
+### Features
+
+* **error handling:** added http and peisma error handling ([d316599](https://github.com/mohammedraoof/nest-graphql-prisma-starter/commit/d31659923198bcdd0c353b2e18a267d843094ef3))
+* **readme.md:** updated readme ([041f732](https://github.com/mohammedraoof/nest-graphql-prisma-starter/commit/041f7322fdc6da895869df51f815e09a9411e28a))
+
 # 1.0.0 (2022-01-27)
 
 
