@@ -1,10 +1,10 @@
 import { Module } from '@nestjs/common';
 import { GraphQLRootCModule } from './lib/graphql/GraphQLRootModule';
 import { PrismaModule } from './lib/prisma/prisma.module';
-import { UserModule } from './graphql/user/user.module';
+import { UsersModule } from './apis/users/users.module';
 
 @Module({
-  imports: [GraphQLRootCModule, PrismaModule, UserModule],
+  imports: [GraphQLRootCModule, PrismaModule, UsersModule],
   controllers: [],
   providers: [],
 })
